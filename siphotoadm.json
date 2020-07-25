@@ -1,13 +1,13 @@
 {
   "ads": {
-    "id_app": "5eddf54135810c06f487c05c",
-    "banner_setting": "ca-app-pub-8541594829243773/6902850580",
-    "inter_setting": "ca-app-pub-8541594829243773/2734814368",
-    "banner_main": "ca-app-pub-8541594829243773/2963605579",
-    "inter_main": "ca-app-pub-8541594829243773/6711278891"
+    "id_app": "5",
+    "banner_setting": "c",
+    "inter_setting": "c",
+    "banner_main": "c",
+    "inter_main": "c"
   }, 
   "app_exists": {
-    "id": "com.new.siren.head.photo.editor",
+    "id": "com.new.siren.head.photo.editor.linh",
     "is_exists": true,
     "is_show_more": false
   },
