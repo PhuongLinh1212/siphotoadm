@@ -4,7 +4,9 @@
     "banner_setting": "ca-app-pub-4084941899768286/9191596834",
     "inter_setting": "ca-app-pub-4084941899768286/5252351823",
     "banner_main": "ca-app-pub-4084941899768286/3172983394",
-    "inter_main": "ca-app-pub-4084941899768286/6920656713"
+    "inter_main": "ca-app-pub-4084941899768286/6920656713",
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.new.siren.head.photo.editor.linh",
