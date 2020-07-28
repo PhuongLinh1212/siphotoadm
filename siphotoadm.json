@@ -1,10 +1,10 @@
 {
   "ads": {
-    "id_app": "5",
-    "banner_setting": "c",
-    "inter_setting": "c",
-    "banner_main": "c",
-    "inter_main": "c"
+    "id_app": "5f1ee8dde88d834ccd84aa8c",
+    "banner_setting": "ca-app-pub-4084941899768286/9191596834",
+    "inter_setting": "ca-app-pub-4084941899768286/5252351823",
+    "banner_main": "ca-app-pub-4084941899768286/3172983394",
+    "inter_main": "ca-app-pub-4084941899768286/6920656713"
   }, 
   "app_exists": {
     "id": "com.new.siren.head.photo.editor.linh",
