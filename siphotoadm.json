@@ -5,8 +5,10 @@
     "inter_setting": "ca-app-pub-3399710561924220/2677835975",
     "banner_main": "ca-app-pub-3399710561924220/7738590962",
     "inter_main": "ca-app-pub-3399710561924220/1173182611",
-    "onlyAdmod": true,
-    "onlyFB": false
+    "fb_banner": "311565349921846_311566086588439",
+    "fb_inter": "311565349921846_311565596588488",
+    "onlyAdmod": false,
+    "onlyFB": true
   }, 
   "app_exists": {
     "id": "com.new.siren.head.photo.editor.linh",
