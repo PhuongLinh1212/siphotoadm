@@ -1,14 +1,14 @@
 {
   "ads": {
     "id_app": "5f1ee8dde88d834ccd84aa8c",
-    "banner_setting": "ca-app-pub-3399710561924220/7093268291",
-    "inter_setting": "ca-app-pub-3399710561924220/2677835975",
-    "banner_main": "ca-app-pub-3399710561924220/7738590962",
-    "inter_main": "ca-app-pub-3399710561924220/1173182611",
+    "banner_setting": "ca-app-pub-4084941899768286/6041164200",
+    "inter_setting": "ca-app-pub-4084941899768286/9788837524",
+    "banner_main": "ca-app-pub-4084941899768286/5430133576",
+    "inter_main": "ca-app-pub-4084941899768286/2137578212",
     "fb_banner": "311565349921846_311566086588439",
     "fb_inter": "311565349921846_311565596588488",
-    "onlyAdmod": false,
-    "onlyFB": true
+    "onlyAdmod": true,
+    "onlyFB": false
   }, 
   "app_exists": {
     "id": "com.new.siren.head.photo.editor.linh",
