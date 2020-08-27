@@ -11,8 +11,8 @@
     "onlyFB": false
   }, 
   "app_exists": {
-    "id": "com.new.siren.head.photo.editor.linh",
-    "is_exists": true,
+    "id": "com.new.siren.head.photo.editor.free",
+    "is_exists": false,
     "is_show_more": true
   },
   "apps": [
